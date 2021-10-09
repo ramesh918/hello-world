@@ -8,6 +8,6 @@ for Relation Databases:
 for non relation Database:
      1. mongoDB
      2. AWS Dynamo DB
-by using the express framework can ablet to expose the APIs
+by using the express framework can able to expose the APIs
 I can work greatly on aws lambda funcitons using the serverless framework 
      
